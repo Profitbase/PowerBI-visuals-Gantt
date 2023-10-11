@@ -9,7 +9,7 @@ Hope you enjoy this highly customizable gantt chart for Power BI.
 ![image](https://github.com/Profitbase/PowerBI-visuals-Gantt/assets/82056309/0667543a-4a2c-49bb-9888-6f7706099035)
 
 
-![Income Statement](assets/Demo_Screenshot.PNG)
+
 
 ## Have questions or need help?
 
